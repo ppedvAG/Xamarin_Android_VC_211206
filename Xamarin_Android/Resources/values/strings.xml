@@ -1,0 +1,24 @@
+<resources>
+  <!--Hier finden sich alle in der App verwendeten Strings. Die Zuordnung erfolgt über
+  @String/name-->
+
+  <!--Allgemein-->
+  <string name="app_name">X_Android</string>
+  <string name="action_settings">Settings</string>
+
+  <!--activity_main-->
+  <string name="activity_main_Txv_Anweisung_Text">Bitte geben Sie eine Zahl ein:</string>
+  <string name="activity_main_Edt_Input_Hint">Zahl eingeben</string>
+  <string name="activity_main_Btn_Ok_Text">Ok</string>
+  <string name="activity_main_Btn_Google_Text">Öffne Google.de</string>
+  <string name="activity_main_Btn_ShowPicture_Text">Zu zufälligen Bildern</string>
+
+  <!--activity_ShowPicture-->
+  <string name="activity_ShowPicture_height">Höhe: </string>
+  <string name="activity_ShowPicture_width">Breite: </string>
+  <string name="activity_ShowPicture_Btn_Go">GO</string>
+  <string name="activity_ShowPicture_EdT_Height_text">640</string>
+  <string name="activity_ShowPicture_EdT_Width_text">480</string>
+  <string name="activity_ShowPicture_Img_Content_Desc">Some random picture</string>
+
+</resources>
